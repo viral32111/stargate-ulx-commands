@@ -1,6 +1,6 @@
 # Stargate ULX Commands
 
-**Last updated: 9/07/2019**
+**Last updated: 09/08/2019**
 
 Adds a few basic commands to [ULX](https://github.com/TeamUlysses/ulx) related to the [CAP Stargate](https://github.com/RafaelDeJongh/cap) addon.
 

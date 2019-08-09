@@ -1,2 +1,12 @@
-# stargate-ulx-commands
- Close all Stargates, Open all Irises and Shutdown all Shields available as ULX Commands.
+# Stargate ULX Commands
+
+**Last updated: 9/07/2019**
+
+Adds a few basic commands to [ULX](https://github.com/TeamUlysses/ulx) related to the [CAP Stargate](https://github.com/RafaelDeJongh/cap) addon.
+
+__Commands:__
+* Close all Stargates: `ulx closeallgates` *(Aliases: `!closesg`, `!closegates`, `!closeallsg`)*
+* Open all Stargate Irises: `ulx openallirises` *(Aliases: `!openirises`)*
+* Shutdown all Shield Generators: `ulx shutdownallshields` *(Aliases: `!shieldsoff`, `!sdshields`, `!shutdownshields`)*
+
+###### [Copyright 2019 viral32111](LICENCE.md)

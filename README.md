@@ -9,4 +9,4 @@ __Commands:__
 * Open all Stargate Irises: `ulx openallirises` *(Aliases: `!openirises`)*
 * Shutdown all Shield Generators: `ulx shutdownallshields` *(Aliases: `!shieldsoff`, `!sdshields`, `!shutdownshields`)*
 
-###### [Copyright 2019 - 2021 viral32111](LICENCE.md)
+###### [Copyright 2019 - 2022 viral32111](LICENCE.md)
